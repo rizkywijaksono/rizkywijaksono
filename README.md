@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+> I'm [@ukirama](https://ukirama.com)
+> Working On Ruby, Ruby on Rails, PostgreSql, 
 <!--
 **rizkywijaksono/rizkywijaksono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
